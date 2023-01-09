@@ -1,6 +1,6 @@
 {
   "name": "Guild Ball",
-  "revision": "0.1.0",
+  "revision": "0.1.1",
   "game": "Guild Ball",
   "genre": "fantasy",
   "publisher": "Steamforged Games",
@@ -28307,7 +28307,8 @@
             },
             "visibility": "normal",
             "dynamic": true,
-            "tracked": false
+            "tracked": false,
+            "value": "-"
           },
           "Minor Guild": {
             "statType": "rank",
@@ -28343,7 +28344,8 @@
             },
             "visibility": "normal",
             "dynamic": true,
-            "tracked": false
+            "tracked": false,
+            "value": "-"
           },
           "League": {
             "statType": "rank",
