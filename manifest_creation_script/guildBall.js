@@ -4,7 +4,7 @@ let formatText = (text) => {
 }
 let manifest = {
   name: 'Guild Ball',
-  revision: '0.1.2',
+  revision: '0.1.3',
   wip: false,
   game: 'Guild Ball',
   genre: 'fantasy',
@@ -165,10 +165,10 @@ let manifest = {
           'Group Traits': true,
         }
       },
-      Captains: {
+      Captain: {
         templateClass: "Players"
       },
-      Mascots: {
+      Mascot: {
         templateClass: "Players"
       },
       'Character Plays': {
@@ -277,14 +277,14 @@ let manifest = {
             dynamic: true,
             tracked: false
           },
-          Captains: {
+          Captain: {
             statType: "numeric",
             value: 0,
             visibility: "hidden",
             tracked: true,
             max: 1
           },
-          Mascots: {
+          Mascot: {
             statType: "numeric",
             value: 0,
             visibility: "hidden",
@@ -385,15 +385,15 @@ window.data.Guilds.forEach((guild,i,a) => {
     evaluate: "AND",
     actions: []
   }
-  let classOrder = ['Captains','Mascots','Players']
+  let classOrder = ['Captain','Mascot','Players']
   let guildRoster = window.data.Models.filter(model => guild.roster.includes(model.id));
   guildRoster.forEach((player,i,a) => {
     let className = 'Players';
     let itemName = player.id.replace(/^s(.*)/,'$1 (seasoned)').replace(/^v(.*)/,'$1 (veteran)');
-    if(player.captain) className = 'Captains';
+    if(player.captain) className = 'Captain';
     delete a[i].captain;
     
-    if(player.mascot) className = 'Mascots';
+    if(player.mascot) className = 'Mascot';
     delete a[i].mascot;
     
     a[i].itemKey = className + '§' + itemName;
