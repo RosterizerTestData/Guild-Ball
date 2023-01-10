@@ -1,6 +1,6 @@
 {
   "name": "Guild Ball",
-  "revision": "0.1.1",
+  "revision": "0.1.2",
   "game": "Guild Ball",
   "genre": "fantasy",
   "publisher": "Steamforged Games",
@@ -279,8 +279,7 @@
         "aspects": {
           "Lock Qty": true,
           "Unique": true,
-          "Group Traits": true,
-          "Type": "game piece"
+          "Group Traits": true
         }
       }
     },
@@ -29397,30 +29396,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Shank",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
-                "value": "Players§Tenderiser",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Wellington",
                 "iterations": 1
               },
@@ -29434,6 +29409,30 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Pepper",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Shank",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Tenderiser",
                 "iterations": 1
               },
               {
@@ -29518,18 +29517,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Compound",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Ballista",
                 "iterations": 1
               },
@@ -29579,6 +29566,18 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Mother",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Compound",
                 "iterations": 1
               },
               {
@@ -29747,30 +29746,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Egret",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
-                "value": "Players§Hearne (veteran)",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Devana",
                 "iterations": 1
               },
@@ -29784,6 +29759,30 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Frelsi",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Egret",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Hearne (veteran)",
                 "iterations": 1
               },
               {
@@ -30555,30 +30554,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Crucible",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
-                "value": "Players§Mercury",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Nightlight",
                 "iterations": 1
               },
@@ -30592,6 +30567,30 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Soot",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Crucible",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Mercury",
                 "iterations": 1
               },
               {
@@ -30676,18 +30675,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Lucky",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Honour",
                 "iterations": 1
               },
@@ -30737,6 +30724,18 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Wrecker",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Lucky",
                 "iterations": 1
               },
               {
@@ -30893,30 +30892,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Colossus",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
-                "value": "Players§Salvo",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Shaft",
                 "iterations": 1
               },
@@ -30930,6 +30905,30 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Digger",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Colossus",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Salvo",
                 "iterations": 1
               },
               {
@@ -31243,30 +31242,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Angel",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
-                "value": "Players§Siren",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Windfinder",
                 "iterations": 1
               },
@@ -31280,6 +31255,30 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Wander",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Angel",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Siren",
                 "iterations": 1
               },
               {
@@ -31485,30 +31484,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Bonesaw",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
-                "value": "Players§Graves (veteran)",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Piper",
                 "iterations": 1
               },
@@ -31522,6 +31497,30 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Squeak",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Bonesaw",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Graves (veteran)",
                 "iterations": 1
               },
               {
@@ -31606,30 +31605,6 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Players§Bushel",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
-                "value": "Players§Honour (veteran)",
-                "iterations": 1
-              },
-              {
-                "paths": [
-                  [
-                    "{self}",
-                    "allowed",
-                    "items"
-                  ]
-                ],
-                "actionType": "add",
                 "value": "Captains§Herder",
                 "iterations": 1
               },
@@ -31643,6 +31618,30 @@
                 ],
                 "actionType": "add",
                 "value": "Mascots§Babe",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Bushel",
+                "iterations": 1
+              },
+              {
+                "paths": [
+                  [
+                    "{self}",
+                    "allowed",
+                    "items"
+                  ]
+                ],
+                "actionType": "add",
+                "value": "Players§Honour (veteran)",
                 "iterations": 1
               },
               {

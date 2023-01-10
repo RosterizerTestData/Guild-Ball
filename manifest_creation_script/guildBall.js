@@ -4,7 +4,7 @@ let formatText = (text) => {
 }
 let manifest = {
   name: 'Guild Ball',
-  revision: '0.1.0',
+  revision: '0.1.2',
   wip: false,
   game: 'Guild Ball',
   genre: 'fantasy',
@@ -13,7 +13,7 @@ let manifest = {
   notes: 'This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.',
   manifest: ManifestData = {
     assetTaxonomy: {
-      Player: {
+      Players: {
         stats: {
           Reach: {
             statType: "numeric",
@@ -165,11 +165,11 @@ let manifest = {
           'Group Traits': true,
         }
       },
-      Captain: {
-        templateClass: "Player"
+      Captains: {
+        templateClass: "Players"
       },
-      Mascot: {
-        templateClass: "Player"
+      Mascots: {
+        templateClass: "Players"
       },
       'Character Plays': {
         stats: {
@@ -256,7 +256,8 @@ let manifest = {
             ranks: {"-": {order: 0}},
             visibility: "normal",
             dynamic: true,
-            tracked: false
+            tracked: false,
+            value: '-',
           },
           "Minor Guild": {
             statType: "rank",
@@ -264,7 +265,8 @@ let manifest = {
             ranks: {"-": {order: 0}},
             visibility: "normal",
             dynamic: true,
-            tracked: false
+            tracked: false,
+            value: '-',
           },
           League: {
             statType: "rank",
@@ -274,7 +276,28 @@ let manifest = {
             visibility: "normal",
             dynamic: true,
             tracked: false
-          }
+          },
+          Captains: {
+            statType: "numeric",
+            value: 0,
+            visibility: "hidden",
+            tracked: true,
+            max: 1
+          },
+          Mascots: {
+            statType: "numeric",
+            value: 0,
+            visibility: "hidden",
+            tracked: true,
+            max: 1
+          },
+          Players: {
+            statType: "numeric",
+            value: 0,
+            visibility: "hidden",
+            tracked: true,
+            max: 6
+          },
         },
         aspects: {
           "Group Includes": true
@@ -362,19 +385,24 @@ window.data.Guilds.forEach((guild,i,a) => {
     evaluate: "AND",
     actions: []
   }
+  let classOrder = ['Captains','Mascots','Players']
   let guildRoster = window.data.Models.filter(model => guild.roster.includes(model.id));
   guildRoster.forEach((player,i,a) => {
-  
-    let className = 'Player';
+    let className = 'Players';
     let itemName = player.id.replace(/^s(.*)/,'$1 (seasoned)').replace(/^v(.*)/,'$1 (veteran)');
-    if(player.captain) className = 'Captain';
+    if(player.captain) className = 'Captains';
     delete a[i].captain;
-  
-    if(player.mascot) className = 'Mascot';
+    
+    if(player.mascot) className = 'Mascots';
     delete a[i].mascot;
-  
+    
     a[i].itemKey = className + '§' + itemName;
     a[i].color = guild.color;
+  });
+  guildRoster = guildRoster.sort((a,b) => {
+    return classOrder.indexOf(a.itemKey.split('§')[0]) - classOrder.indexOf(b.itemKey.split('§')[0])
+  });
+  guildRoster.forEach((player,i,a) => {
     if(!player.benched){
       guildRule.actions.push({
         paths: [["{self}","allowed","items"]],
