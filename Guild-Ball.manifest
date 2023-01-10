@@ -1,6 +1,6 @@
 {
   "name": "Guild Ball",
-  "revision": "0.1.3",
+  "revision": "0.1.2",
   "game": "Guild Ball",
   "genre": "fantasy",
   "publisher": "Steamforged Games",
@@ -9,7 +9,7 @@
   "wip": false,
   "manifest": {
     "assetTaxonomy": {
-      "Captain": {
+      "Captains": {
         "templateClass": "Players"
       },
       "Character Plays": {
@@ -127,7 +127,7 @@
       "Character Traits": {},
       "Heroic Plays": {},
       "Legendary Plays": {},
-      "Mascot": {
+      "Mascots": {
         "templateClass": "Players"
       },
       "Players": {
@@ -284,7 +284,7 @@
       }
     },
     "assetCatalog": {
-      "Captain§Anvil": {
+      "Captains§Anvil": {
         "stats": {
           "HP": {
             "value": "21 (11)"
@@ -388,7 +388,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD,>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Ballista": {
+      "Captains§Ballista": {
         "stats": {
           "HP": {
             "value": "18 (9)"
@@ -492,7 +492,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">2,●●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">2,>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">3,></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Blackheart": {
+      "Captains§Blackheart": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -587,7 +587,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2,●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">1,<<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2,T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">●●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">3,<<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">3,KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Boar (veteran)": {
+      "Captains§Boar (veteran)": {
         "stats": {
           "HP": {
             "value": "22 (11)"
@@ -714,7 +714,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1,●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">5</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">6</td></tr></table>"
       },
-      "Captain§Brisket (seasoned)": {
+      "Captains§Brisket (seasoned)": {
         "stats": {
           "HP": {
             "value": "15 (8)"
@@ -832,7 +832,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ebed1a;\">T,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ebed1a;\">2,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ebed1a;\">T,T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ebed1a;\">2,<<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Burnish": {
+      "Captains§Burnish": {
         "stats": {
           "HP": {
             "value": "18 (9)"
@@ -936,7 +936,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Corbelli": {
+      "Captains§Corbelli": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -1031,7 +1031,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Corker": {
+      "Captains§Corker": {
         "stats": {
           "HP": {
             "value": "24 (12)"
@@ -1126,7 +1126,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">KD,>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Corsair": {
+      "Captains§Corsair": {
         "stats": {
           "HP": {
             "value": "18 (9)"
@@ -1230,7 +1230,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">KD,>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Culverin": {
+      "Captains§Culverin": {
         "stats": {
           "HP": {
             "value": "19 (10)"
@@ -1333,7 +1333,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Devana": {
+      "Captains§Devana": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -1437,7 +1437,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">3,></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Esters": {
+      "Captains§Esters": {
         "stats": {
           "HP": {
             "value": "22 (11)"
@@ -1541,7 +1541,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T,>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Farris": {
+      "Captains§Farris": {
         "stats": {
           "HP": {
             "value": "18 (9)"
@@ -1645,7 +1645,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Ferrite": {
+      "Captains§Ferrite": {
         "stats": {
           "HP": {
             "value": "17 (9)"
@@ -1749,7 +1749,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Festival": {
+      "Captains§Festival": {
         "stats": {
           "HP": {
             "value": "22 (11)"
@@ -1845,7 +1845,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Fillet": {
+      "Captains§Fillet": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -1949,7 +1949,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">1,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">2,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">3,<<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">●●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">4,<<</td></tr></table>"
       },
-      "Captain§Furnace": {
+      "Captains§Furnace": {
         "stats": {
           "HP": {
             "value": "20 (10)"
@@ -2053,7 +2053,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Grange": {
+      "Captains§Grange": {
         "stats": {
           "HP": {
             "value": "26 (13)"
@@ -2157,7 +2157,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2,●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">3,>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Hammer": {
+      "Captains§Hammer": {
         "stats": {
           "HP": {
             "value": "18 (9)"
@@ -2252,7 +2252,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">T,KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">2,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2,KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3,>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Hearth": {
+      "Captains§Hearth": {
         "stats": {
           "HP": {
             "value": "23 (12)"
@@ -2356,7 +2356,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#82969f;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Herder": {
+      "Captains§Herder": {
         "stats": {
           "HP": {
             "value": "22 (11)"
@@ -2459,7 +2459,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●,><</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">2,●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">T,>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">4</td></tr></table>"
       },
-      "Captain§Honour": {
+      "Captains§Honour": {
         "stats": {
           "HP": {
             "value": "17 (9)"
@@ -2572,7 +2572,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">1,<<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Midas": {
+      "Captains§Midas": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -2667,7 +2667,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">>>,<<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Mourn": {
+      "Captains§Mourn": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -2772,7 +2772,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Nightlight": {
+      "Captains§Nightlight": {
         "stats": {
           "HP": {
             "value": "14 (8)"
@@ -2869,7 +2869,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\">●,<<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Obulus": {
+      "Captains§Obulus": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -2964,7 +2964,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">><</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Ox": {
+      "Captains§Ox": {
         "stats": {
           "HP": {
             "value": "17 (9)"
@@ -3066,7 +3066,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1,●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3,●●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">4</td></tr></table>"
       },
-      "Captain§PinVice": {
+      "Captains§PinVice": {
         "stats": {
           "HP": {
             "value": "11 (6)"
@@ -3161,7 +3161,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">1,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">2,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">3,<<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Piper": {
+      "Captains§Piper": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -3255,7 +3255,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">T,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\"><,>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2,●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Pneuma": {
+      "Captains§Pneuma": {
         "stats": {
           "HP": {
             "value": "10"
@@ -3393,14 +3393,14 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Pneuma",
+                "value": "Captains§Pneuma",
                 "iterations": 1
               }
             ]
           }
         }
       },
-      "Captain§Rage (veteran)": {
+      "Captains§Rage (veteran)": {
         "stats": {
           "HP": {
             "value": "17 (9)"
@@ -3519,7 +3519,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">2,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">3,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">●●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3,●●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">4</td></tr></table>"
       },
-      "Captain§Rivet": {
+      "Captains§Rivet": {
         "stats": {
           "HP": {
             "value": "18 (9)"
@@ -3613,7 +3613,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">2,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">KD,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Scalpel": {
+      "Captains§Scalpel": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -3716,7 +3716,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2,<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">4</td></tr></table>"
       },
-      "Captain§Shaft": {
+      "Captains§Shaft": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -3810,7 +3810,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">1,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">2,></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T,>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">2,>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Shark": {
+      "Captains§Shark": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -3904,7 +3904,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">●●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Skatha": {
+      "Captains§Skatha": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -3999,7 +3999,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Smoke": {
+      "Captains§Smoke": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -4104,7 +4104,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Soma": {
+      "Captains§Soma": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -4259,14 +4259,14 @@
                   ]
                 ],
                 "actionType": "set",
-                "value": "Captain§Pneuma",
+                "value": "Captains§Pneuma",
                 "iterations": 1
               }
             ]
           }
         }
       },
-      "Captain§Steeljaw": {
+      "Captains§Steeljaw": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -4361,7 +4361,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Tapper": {
+      "Captains§Tapper": {
         "stats": {
           "HP": {
             "value": "20 (10)"
@@ -4455,7 +4455,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1,●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">3,>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Theron": {
+      "Captains§Theron": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -4551,7 +4551,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Thresher": {
+      "Captains§Thresher": {
         "stats": {
           "HP": {
             "value": "20 (10)"
@@ -4646,7 +4646,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3,●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">KD,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">3,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">3,KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Wellington": {
+      "Captains§Wellington": {
         "stats": {
           "HP": {
             "value": "16 (8)"
@@ -4740,7 +4740,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#eb2629;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#eb2629;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#eb2629;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#eb2629;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#eb2629;\">4</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Windfinder": {
+      "Captains§Windfinder": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -4834,7 +4834,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">T,<<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Captain§Yukai": {
+      "Captains§Yukai": {
         "stats": {
           "HP": {
             "value": "14 (7)"
@@ -10670,7 +10670,7 @@
           }
         }
       },
-      "Mascot§Babe": {
+      "Mascots§Babe": {
         "stats": {
           "HP": {
             "value": "7 (4)"
@@ -10771,7 +10771,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Buckwheat": {
+      "Mascots§Buckwheat": {
         "stats": {
           "HP": {
             "value": "9 (5)"
@@ -10860,7 +10860,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Coin": {
+      "Mascots§Coin": {
         "stats": {
           "HP": {
             "value": "8 (4)"
@@ -10948,7 +10948,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Digger": {
+      "Mascots§Digger": {
         "stats": {
           "HP": {
             "value": "10 (5)"
@@ -11037,7 +11037,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Dirge": {
+      "Mascots§Dirge": {
         "stats": {
           "HP": {
             "value": "7 (4)"
@@ -11126,7 +11126,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Fahad": {
+      "Mascots§Fahad": {
         "stats": {
           "HP": {
             "value": "6 (3)"
@@ -11224,7 +11224,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">1,<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2,<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Flask": {
+      "Mascots§Flask": {
         "stats": {
           "HP": {
             "value": "7 (4)"
@@ -11322,7 +11322,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Frelsi": {
+      "Mascots§Frelsi": {
         "stats": {
           "HP": {
             "value": "10 (5)"
@@ -11410,7 +11410,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Greede (veteran)": {
+      "Mascots§Greede (veteran)": {
         "stats": {
           "HP": {
             "value": "20 (10)"
@@ -11538,7 +11538,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">3</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">4,></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Mainspring": {
+      "Mascots§Mainspring": {
         "stats": {
           "HP": {
             "value": "7 (4)"
@@ -11636,7 +11636,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Marbles": {
+      "Mascots§Marbles": {
         "stats": {
           "HP": {
             "value": "8 (4)"
@@ -11724,7 +11724,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#416abb;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Mother": {
+      "Mascots§Mother": {
         "stats": {
           "HP": {
             "value": "9 (5)"
@@ -11813,7 +11813,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\">><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#76151e;\"><<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Naja": {
+      "Mascots§Naja": {
         "stats": {
           "HP": {
             "value": "6 (3)"
@@ -11902,7 +11902,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#4e9339;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Peck": {
+      "Mascots§Peck": {
         "stats": {
           "HP": {
             "value": "6 (3)"
@@ -11992,7 +11992,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ea8329;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Pepper": {
+      "Mascots§Pepper": {
         "stats": {
           "HP": {
             "value": "6 (3)"
@@ -12081,7 +12081,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#eb2629;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#eb2629;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Pride": {
+      "Mascots§Pride": {
         "stats": {
           "HP": {
             "value": "13 (7)"
@@ -12171,7 +12171,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ebed1a;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ebed1a;\">2,●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ebed1a;\">3,●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Princess": {
+      "Mascots§Princess": {
         "stats": {
           "HP": {
             "value": "8 (4)"
@@ -12259,7 +12259,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">●●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Quaff": {
+      "Mascots§Quaff": {
         "stats": {
           "HP": {
             "value": "8 (4)"
@@ -12347,7 +12347,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Salt": {
+      "Mascots§Salt": {
         "stats": {
           "HP": {
             "value": "7 (4)"
@@ -12435,7 +12435,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">●</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Scum": {
+      "Mascots§Scum": {
         "stats": {
           "HP": {
             "value": "6 (3)"
@@ -12523,7 +12523,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#cdb320;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Snow": {
+      "Mascots§Snow": {
         "stats": {
           "HP": {
             "value": "8 (4)"
@@ -12620,7 +12620,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">><</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Soot": {
+      "Mascots§Soot": {
         "stats": {
           "HP": {
             "value": "6 (3)"
@@ -12711,7 +12711,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#00994a;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Squeak": {
+      "Mascots§Squeak": {
         "stats": {
           "HP": {
             "value": "10 (5)"
@@ -12800,7 +12800,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">●</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Strongbox": {
+      "Mascots§Strongbox": {
         "stats": {
           "HP": {
             "value": "10 (5)"
@@ -12897,7 +12897,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#5b257f;\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Tentacles": {
+      "Mascots§Tentacles": {
         "stats": {
           "HP": {
             "value": "9 (5)"
@@ -12985,7 +12985,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">T</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\">>></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Truffles": {
+      "Mascots§Truffles": {
         "stats": {
           "HP": {
             "value": "11 (6)"
@@ -13074,7 +13074,7 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">></td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">KD</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ce1f27;\">2</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Vileswarm": {
+      "Mascots§Vileswarm": {
         "stats": {
           "HP": {
             "value": "9 (5)"
@@ -13171,7 +13171,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">></td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#1d2022;\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Wander": {
+      "Mascots§Wander": {
         "stats": {
           "HP": {
             "value": "9 (5)"
@@ -13264,7 +13264,7 @@
         },
         "text": "<table><tr><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#50b8c8;\"><<</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Mascot§Wrecker": {
+      "Mascots§Wrecker": {
         "stats": {
           "HP": {
             "value": "9 (5)"
@@ -28362,14 +28362,14 @@
             "dynamic": true,
             "tracked": false
           },
-          "Captain": {
+          "Captains": {
             "statType": "numeric",
             "value": 0,
             "visibility": "hidden",
             "tracked": true,
             "max": 1
           },
-          "Mascot": {
+          "Mascots": {
             "statType": "numeric",
             "value": 0,
             "visibility": "hidden",
@@ -28516,7 +28516,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Midas",
+                "value": "Captains§Midas",
                 "iterations": 1
               },
               {
@@ -28528,7 +28528,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Smoke",
+                "value": "Captains§Smoke",
                 "iterations": 1
               },
               {
@@ -28540,7 +28540,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Soma",
+                "value": "Captains§Soma",
                 "iterations": 1
               },
               {
@@ -28552,7 +28552,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Flask",
+                "value": "Mascots§Flask",
                 "iterations": 1
               },
               {
@@ -28564,7 +28564,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Naja",
+                "value": "Mascots§Naja",
                 "iterations": 1
               },
               {
@@ -28745,7 +28745,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Anvil",
+                "value": "Captains§Anvil",
                 "iterations": 1
               },
               {
@@ -28757,7 +28757,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Burnish",
+                "value": "Captains§Burnish",
                 "iterations": 1
               },
               {
@@ -28769,7 +28769,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Culverin",
+                "value": "Captains§Culverin",
                 "iterations": 1
               },
               {
@@ -28781,7 +28781,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Farris",
+                "value": "Captains§Farris",
                 "iterations": 1
               },
               {
@@ -28793,7 +28793,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Ferrite",
+                "value": "Captains§Ferrite",
                 "iterations": 1
               },
               {
@@ -28805,7 +28805,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Furnace",
+                "value": "Captains§Furnace",
                 "iterations": 1
               },
               {
@@ -28817,7 +28817,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Hearth",
+                "value": "Captains§Hearth",
                 "iterations": 1
               },
               {
@@ -28950,7 +28950,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Tapper",
+                "value": "Captains§Tapper",
                 "iterations": 1
               },
               {
@@ -28962,7 +28962,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Esters",
+                "value": "Captains§Esters",
                 "iterations": 1
               },
               {
@@ -28974,7 +28974,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Corker",
+                "value": "Captains§Corker",
                 "iterations": 1
               },
               {
@@ -28986,7 +28986,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Scum",
+                "value": "Mascots§Scum",
                 "iterations": 1
               },
               {
@@ -28998,7 +28998,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Quaff",
+                "value": "Mascots§Quaff",
                 "iterations": 1
               },
               {
@@ -29167,7 +29167,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Ox",
+                "value": "Captains§Ox",
                 "iterations": 1
               },
               {
@@ -29179,7 +29179,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Fillet",
+                "value": "Captains§Fillet",
                 "iterations": 1
               },
               {
@@ -29191,7 +29191,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Boar (veteran)",
+                "value": "Captains§Boar (veteran)",
                 "iterations": 1
               },
               {
@@ -29203,7 +29203,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Princess",
+                "value": "Mascots§Princess",
                 "iterations": 1
               },
               {
@@ -29215,7 +29215,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Truffles",
+                "value": "Mascots§Truffles",
                 "iterations": 1
               },
               {
@@ -29396,7 +29396,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Wellington",
+                "value": "Captains§Wellington",
                 "iterations": 1
               },
               {
@@ -29408,7 +29408,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Pepper",
+                "value": "Mascots§Pepper",
                 "iterations": 1
               },
               {
@@ -29517,7 +29517,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Ballista",
+                "value": "Captains§Ballista",
                 "iterations": 1
               },
               {
@@ -29529,7 +29529,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§PinVice",
+                "value": "Captains§PinVice",
                 "iterations": 1
               },
               {
@@ -29541,7 +29541,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Rivet",
+                "value": "Captains§Rivet",
                 "iterations": 1
               },
               {
@@ -29553,7 +29553,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Mainspring",
+                "value": "Mascots§Mainspring",
                 "iterations": 1
               },
               {
@@ -29565,7 +29565,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Mother",
+                "value": "Mascots§Mother",
                 "iterations": 1
               },
               {
@@ -29746,7 +29746,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Devana",
+                "value": "Captains§Devana",
                 "iterations": 1
               },
               {
@@ -29758,7 +29758,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Frelsi",
+                "value": "Mascots§Frelsi",
                 "iterations": 1
               },
               {
@@ -29867,7 +29867,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Thresher",
+                "value": "Captains§Thresher",
                 "iterations": 1
               },
               {
@@ -29879,7 +29879,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Grange",
+                "value": "Captains§Grange",
                 "iterations": 1
               },
               {
@@ -29891,7 +29891,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Festival",
+                "value": "Captains§Festival",
                 "iterations": 1
               },
               {
@@ -29903,7 +29903,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Peck",
+                "value": "Mascots§Peck",
                 "iterations": 1
               },
               {
@@ -29915,7 +29915,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Buckwheat",
+                "value": "Mascots§Buckwheat",
                 "iterations": 1
               },
               {
@@ -30096,7 +30096,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Shark",
+                "value": "Captains§Shark",
                 "iterations": 1
               },
               {
@@ -30108,7 +30108,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Corsair",
+                "value": "Captains§Corsair",
                 "iterations": 1
               },
               {
@@ -30120,7 +30120,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Yukai",
+                "value": "Captains§Yukai",
                 "iterations": 1
               },
               {
@@ -30132,7 +30132,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Salt",
+                "value": "Mascots§Salt",
                 "iterations": 1
               },
               {
@@ -30144,7 +30144,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Tentacles",
+                "value": "Mascots§Tentacles",
                 "iterations": 1
               },
               {
@@ -30325,7 +30325,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Theron",
+                "value": "Captains§Theron",
                 "iterations": 1
               },
               {
@@ -30337,7 +30337,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Skatha",
+                "value": "Captains§Skatha",
                 "iterations": 1
               },
               {
@@ -30349,7 +30349,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Steeljaw",
+                "value": "Captains§Steeljaw",
                 "iterations": 1
               },
               {
@@ -30361,7 +30361,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Fahad",
+                "value": "Mascots§Fahad",
                 "iterations": 1
               },
               {
@@ -30373,7 +30373,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Snow",
+                "value": "Mascots§Snow",
                 "iterations": 1
               },
               {
@@ -30554,7 +30554,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Nightlight",
+                "value": "Captains§Nightlight",
                 "iterations": 1
               },
               {
@@ -30566,7 +30566,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Soot",
+                "value": "Mascots§Soot",
                 "iterations": 1
               },
               {
@@ -30675,7 +30675,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Honour",
+                "value": "Captains§Honour",
                 "iterations": 1
               },
               {
@@ -30687,7 +30687,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Hammer",
+                "value": "Captains§Hammer",
                 "iterations": 1
               },
               {
@@ -30699,7 +30699,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Corbelli",
+                "value": "Captains§Corbelli",
                 "iterations": 1
               },
               {
@@ -30711,7 +30711,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Marbles",
+                "value": "Mascots§Marbles",
                 "iterations": 1
               },
               {
@@ -30723,7 +30723,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Wrecker",
+                "value": "Mascots§Wrecker",
                 "iterations": 1
               },
               {
@@ -30892,7 +30892,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Shaft",
+                "value": "Captains§Shaft",
                 "iterations": 1
               },
               {
@@ -30904,7 +30904,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Digger",
+                "value": "Mascots§Digger",
                 "iterations": 1
               },
               {
@@ -31013,7 +31013,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Obulus",
+                "value": "Captains§Obulus",
                 "iterations": 1
               },
               {
@@ -31025,7 +31025,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Scalpel",
+                "value": "Captains§Scalpel",
                 "iterations": 1
               },
               {
@@ -31037,7 +31037,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Mourn",
+                "value": "Captains§Mourn",
                 "iterations": 1
               },
               {
@@ -31049,7 +31049,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Dirge",
+                "value": "Mascots§Dirge",
                 "iterations": 1
               },
               {
@@ -31061,7 +31061,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Vileswarm",
+                "value": "Mascots§Vileswarm",
                 "iterations": 1
               },
               {
@@ -31242,7 +31242,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Windfinder",
+                "value": "Captains§Windfinder",
                 "iterations": 1
               },
               {
@@ -31254,7 +31254,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Wander",
+                "value": "Mascots§Wander",
                 "iterations": 1
               },
               {
@@ -31363,7 +31363,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Brisket (seasoned)",
+                "value": "Captains§Brisket (seasoned)",
                 "iterations": 1
               },
               {
@@ -31375,7 +31375,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Pride",
+                "value": "Mascots§Pride",
                 "iterations": 1
               },
               {
@@ -31484,7 +31484,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Piper",
+                "value": "Captains§Piper",
                 "iterations": 1
               },
               {
@@ -31496,7 +31496,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Squeak",
+                "value": "Mascots§Squeak",
                 "iterations": 1
               },
               {
@@ -31605,7 +31605,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Herder",
+                "value": "Captains§Herder",
                 "iterations": 1
               },
               {
@@ -31617,7 +31617,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Babe",
+                "value": "Mascots§Babe",
                 "iterations": 1
               },
               {
@@ -31726,7 +31726,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Blackheart",
+                "value": "Captains§Blackheart",
                 "iterations": 1
               },
               {
@@ -31738,7 +31738,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Captain§Rage (veteran)",
+                "value": "Captains§Rage (veteran)",
                 "iterations": 1
               },
               {
@@ -31750,7 +31750,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Greede (veteran)",
+                "value": "Mascots§Greede (veteran)",
                 "iterations": 1
               },
               {
@@ -31762,7 +31762,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Coin",
+                "value": "Mascots§Coin",
                 "iterations": 1
               },
               {
@@ -31774,7 +31774,7 @@
                   ]
                 ],
                 "actionType": "add",
-                "value": "Mascot§Strongbox",
+                "value": "Mascots§Strongbox",
                 "iterations": 1
               },
               {
