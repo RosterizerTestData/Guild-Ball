@@ -5,9 +5,9 @@
   "genre": "fantasy",
   "publisher": "Steamforged Games",
   "url": "https://steamforged.com/blogs/resources",
-  "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
+  "notes": "This rulebook is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
   "wip": false,
-  "manifest": {
+  "rulebook": {
     "assetTaxonomy": {
       "Captains": {
         "templateClass": "Players"

@@ -2,7 +2,7 @@
 let formatText = (text) => {
   return text.replace(/"/g,'″').replace(/'/g,'’').replace(/\.\.\./g,'…').replace(/\n/g,'\n\n');
 }
-let manifest = {
+let rulebook = {
   name: 'Guild Ball',
   revision: '0.1.2',
   wip: false,
@@ -10,8 +10,8 @@ let manifest = {
   genre: 'fantasy',
   publisher: 'Steamforged Games',
   url: 'https://steamforged.com/blogs/resources',
-  notes: 'This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.',
-  manifest: ManifestData = {
+  notes: 'This rulebook is provided for the purposes of testing *Rosterizer* and is not intended for distribution.',
+  rulebook: RulebookData = {
     assetTaxonomy: {
       Players: {
         stats: {
@@ -364,11 +364,11 @@ let manifest = {
 };
 window.data.Guilds.forEach((guild,i,a) => {
   if(guild.minor){
-    let newOrder = Object.keys(manifest.manifest.assetCatalog["Roster§Team"].stats["Minor Guild"].ranks).length;
-    manifest.manifest.assetCatalog["Roster§Team"].stats["Minor Guild"].ranks[guild.name] = {order: newOrder};
+    let newOrder = Object.keys(rulebook.rulebook.assetCatalog["Roster§Team"].stats["Minor Guild"].ranks).length;
+    rulebook.rulebook.assetCatalog["Roster§Team"].stats["Minor Guild"].ranks[guild.name] = {order: newOrder};
   }else{
-    let newOrder = Object.keys(manifest.manifest.assetCatalog["Roster§Team"].stats["Major Guild"].ranks).length;
-    manifest.manifest.assetCatalog["Roster§Team"].stats["Major Guild"].ranks[guild.name] = {order: newOrder};
+    let newOrder = Object.keys(rulebook.rulebook.assetCatalog["Roster§Team"].stats["Major Guild"].ranks).length;
+    rulebook.rulebook.assetCatalog["Roster§Team"].stats["Major Guild"].ranks[guild.name] = {order: newOrder};
   }
   delete a[i].minor;
   let guildRule = {
@@ -412,7 +412,7 @@ window.data.Guilds.forEach((guild,i,a) => {
       });
     }
   });
-  manifest.manifest.assetCatalog["Roster§Team"].rules[guild.name.toLowerCase() + 'Guild'] = guildRule;
+  rulebook.rulebook.assetCatalog["Roster§Team"].rules[guild.name.toLowerCase() + 'Guild'] = guildRule;
   delete a[i]
 });
 window.data.Models.forEach((model,i,a) => {
@@ -577,10 +577,10 @@ window.data.Models.forEach((model,i,a) => {
     let heroic = model.heroic.split('\n');
     let heroicName = formatText(heroic[0].replace(/(.*)\s\[.*$/,'$1'))
     let heroicItem = 'Heroic Plays§' + heroicName;
-    manifest.manifest.assetCatalog[heroicItem] = {text: formatText(heroic[1])};
+    rulebook.rulebook.assetCatalog[heroicItem] = {text: formatText(heroic[1])};
     if(model.heroic.split('\n')[0].includes(' [')){
       let heroicValue = formatText(model.heroic.split('\n')[0].replace(/.*\[(.*)\]$/,'$1'));
-      manifest.manifest.assetCatalog[heroicItem].stats = {
+      rulebook.rulebook.assetCatalog[heroicItem].stats = {
         heroic: {
           statType: 'term',
           value: heroicValue,
@@ -598,10 +598,10 @@ window.data.Models.forEach((model,i,a) => {
     let legendary = model.legendary.split('\n');
     let legendaryName = formatText(legendary[0].replace(/(.*)\s\[.*$/,'$1'))
     let legendaryItem = 'Legendary Plays§' + legendaryName;
-    manifest.manifest.assetCatalog[legendaryItem] = {text: formatText(legendary[1])};
+    rulebook.rulebook.assetCatalog[legendaryItem] = {text: formatText(legendary[1])};
     if(model.legendary.split('\n')[0].includes(' [')){
       let legendaryValue = formatText(model.legendary.split('\n')[0].replace(/.*\[(.*)\]$/,'$1'));
-      manifest.manifest.assetCatalog[legendaryItem].stats = {
+      rulebook.rulebook.assetCatalog[legendaryItem].stats = {
         legendary: {
           statType: 'term',
           value: legendaryValue,
@@ -718,12 +718,12 @@ window.data.Models.forEach((model,i,a) => {
   delete a[i].benched;
   delete a[i].dehcneb;
 
-  manifest.manifest.assetCatalog[a[i].itemKey] = modelItem;
+  rulebook.rulebook.assetCatalog[a[i].itemKey] = modelItem;
   delete a[i].itemKey
 });
 window.data['Character Traits'].forEach((characterTrait,i,a) => {
   let traitName = (characterTrait.active ? '⌾ ' : '') + formatText(characterTrait.name)
-  manifest.manifest.assetCatalog['Character Traits§' + traitName] = {
+  rulebook.rulebook.assetCatalog['Character Traits§' + traitName] = {
     text: formatText(characterTrait.text),
   }
   delete a[i]
@@ -738,7 +738,7 @@ window.data['Character Plays'].forEach((characterPlay,i,a) => {
   }else{
     text = characterPlay.text
   }
-  manifest.manifest.assetCatalog['Character Plays§' + formatText(characterPlay.name)] = {
+  rulebook.rulebook.assetCatalog['Character Plays§' + formatText(characterPlay.name)] = {
     text: formatText(text),
     stats:{
       CST:{
@@ -762,4 +762,4 @@ window.data['Character Plays'].forEach((characterPlay,i,a) => {
 });
 // console.log(window.data);
 let set = new Set()
-console.log(manifest)
+console.log(rulebook)
