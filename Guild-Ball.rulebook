@@ -1,6 +1,6 @@
 {
   "name": "Guild Ball",
-  "revision": "0.1.3",
+  "revision": "0.2.0",
   "game": "Guild Ball",
   "genre": "fantasy",
   "publisher": "Steamforged Games",
@@ -28261,9 +28261,10 @@
         },
         "text": "<table><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">1</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">T</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr><tr><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\"><</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\">2</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#39653b;\"><<</td><td style=\"border-radius:50%;border: 2px solid black;background-color:#ddd;color:#222\">3</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td><td style=\"background: transparent;border-color: transparent\">&nbsp;</td></tr></table>"
       },
-      "Roster§Team": {
+      "Roster§Roster": {
         "aspects": {
-          "Group Includes": true
+          "Group Includes": true,
+          "Label": "Team"
         },
         "rules": {
           "alchemistsGuild": {
